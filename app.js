@@ -1,7 +1,7 @@
 //criando a lista de números
 let listaDeNumerosSorteados = [];
 //criando a variavel de limite de numeros no jogo
-let numeroLimite = 10;
+let numeroLimite = 100;
 //criando o número secreto a partir da função no final
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
